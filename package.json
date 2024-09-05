@@ -1,0 +1,20 @@
+{
+  "name": "scm2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flowbite": "^2.5.1",
+    "scm2.0": "file:"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
